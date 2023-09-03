@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mridul03-ice&label=Profile%20views&color=0e75b6&style=flat" alt="mridul03-ice" /> </p>
 
-- 🌱 I’m currently learning **Java,Application Development Using Python,Web Development Using Javascript**
+- 🌱 I’m currently learning **Java,Application Development Using Java,Web Development Using Javascript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mridul03-ice](https://github.com/Mridul03-ice)
 
-- 💬 Ask me about **C,C++**
+- 💬 Ask me about **C,C++,OOP,HTNL,CSS**
 
 - 📫 How to reach me **abdulwahab22400@gmail.com**
 
