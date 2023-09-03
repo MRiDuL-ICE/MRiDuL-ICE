@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mridul03-ice](https://github.com/Mridul03-ice)
 
-- 💬 Ask me about **C,C++,OOP,HTNL,CSS**
+- 💬 Ask me about **C,C++,OOP,HTML,CSS**
 
 - 📫 How to reach me **abdulwahab22400@gmail.com**
 
