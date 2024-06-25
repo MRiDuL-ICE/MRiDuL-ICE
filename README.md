@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Frontend development Using HTML,CSS,REACTJS and also NODEJS,MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mridul03-ice](https://github.com/MRiDuL-ICE)
+- 👨‍💻 All of my projects are available at [https://github.com/MRiDuL-ICE](https://github.com/MRiDuL-ICE)
 
 - 💬 Ask me about **C,C++,OOP,HTML,CSS**
 
