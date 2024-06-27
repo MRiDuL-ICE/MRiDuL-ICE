@@ -31,3 +31,9 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=MRiDuL-ICE&theme=dark&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" alt="MRiDuL-ICE" /></p>
+
+## 📊 &nbsp;Stats
+
+![MRiDuL' Github Stats](https://github-readme-stats.vercel.app/api?username=MRiDuL-ICE&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MRiDuL-ICE&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
