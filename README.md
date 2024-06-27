@@ -30,9 +30,9 @@
 
 ## 📊 &nbsp;Stats
 
-<p>  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=MRiDuL-ICE&show_icons=true&count_private=true&theme=midnight-purple&hide_border=false&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=MRiDuL-ICE&layout=compact&hide_border=false&theme=midnight-purple&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=MRiDuL-ICE&theme=midnight-purple&hide_border=false&background=FFFFFF00"></p>
+<p>  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=MRiDuL-ICE&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=MRiDuL-ICE&layout=compact&hide_border=true&theme=midnight-purple&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=MRiDuL-ICE&theme=midnight-purple&hide_border=true&background=FFFFFF00"></p>
 
 
 <!----<p>
