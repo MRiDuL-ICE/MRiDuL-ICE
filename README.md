@@ -35,6 +35,6 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=MRiDuL-ICE&theme=midnight-purple&hide_border=true&background=FFFFFF00"></p>
 
 
-<p>
+<!----<p>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MRiDuL-ICE&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=MRiDuL-ICE&theme=dark&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" alt="MRiDuL-ICE" /></p>
