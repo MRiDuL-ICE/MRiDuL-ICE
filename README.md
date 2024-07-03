@@ -33,7 +33,7 @@ s![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inl
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=MRiDuL-ICE&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000">
   <img height="100%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=MRiDuL-ICE&layout=compact&hide_border=true&theme=midnight-purple&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=MRiDuL-ICE&theme=midnight-purple&&include_all_commits=true&count_private=true&hide_border=true&background=FFFFFF00">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=MRiDuL-ICE&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&background=FFFFFF00">
 </p>
 
 
