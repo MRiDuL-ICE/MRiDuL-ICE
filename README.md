@@ -1,4 +1,5 @@
 ![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1723680000&v=beta&t=3vPGLMcFPyP3wYhnglZpYmwRebilGAazw6cAGcG57rI)
+<img src="https://komarev.com/ghpvc/?username=MRiDuL-ICE&label=Profile%20views&color=0e75b6&style=flat" alt="MRiDuL-ICE" />
 <h1 align="center">Hi 👋, I'm Md. Abdul Wahab</h1>
 <h3 align="center">A passionate trainee software engineer from Bangladesh</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MRiDuL-ICE&theme=radical&&include_all_commits=true&count_private=true" /></a> </p>
