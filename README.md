@@ -1,4 +1,4 @@
-![MasterHead]("https://neurosys.com/wp-content/webp-express/webp-images/uploads/2023/01/trends-software-development.png.webp")
+![MasterHead]("https://neurosys.com/wp-content/webp-express/webp-images/uploads/2023/01/trends-software-development.png.png")
 <img src="https://komarev.com/ghpvc/?username=MRiDuL-ICE&label=Profile%20views&color=0e75b6&style=flat" alt="MRiDuL-ICE" />
 <h1 align="center">Hi 👋, I'm Md. Abdul Wahab</h1>
 <h3 align="center">A passionate junior software engineer from Bangladesh</h3>
