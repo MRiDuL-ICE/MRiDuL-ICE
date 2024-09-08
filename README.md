@@ -1,5 +1,4 @@
-![MasterHead]("[https://neurosys.com/wp-content/webp-express/webp-images/uploads/2023/01/trends-software-development.png.png](https://www.cloudways.com/blog/wp-content/uploads/Main-Image_750x394-79.jpg)")
-<img src="https://komarev.com/ghpvc/?username=MRiDuL-ICE&label=Profile%20views&color=0e75b6&style=flat" alt="MRiDuL-ICE" />
+<img src="https://ckl-website-static.s3.amazonaws.com/wp-content/uploads/2017/08/devstart_banner.png" alt="MRiDuL-ICE" />
 <h1 align="center">Hi 👋, I'm Md. Abdul Wahab</h1>
 <h3 align="center">A passionate junior software engineer from Bangladesh</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MRiDuL-ICE&theme=radical&&include_all_commits=true&count_private=true" /></a> </p>
