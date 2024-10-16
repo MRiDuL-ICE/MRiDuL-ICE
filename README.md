@@ -69,8 +69,7 @@ things. I am a mature team player.I can work smoothly under any kind of situatio
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,c,java,mysql,php" /><br>
+    <img src="https://skillicons.dev/icons?i=react,nodejs,javascript,express,mongodb,bootstrap,html,css,vscode,github,tailwind,git,c,java,mysql,php" />
 </div>
 
 <br><br><br>
