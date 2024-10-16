@@ -1,5 +1,5 @@
 <img src="https://ckl-website-static.s3.amazonaws.com/wp-content/uploads/2017/08/devstart_banner.png" alt="MRiDuL-ICE" />
-# 🏄‍♂️ Forrest Knight
+#🏄‍♂️ Forrest Knight
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
