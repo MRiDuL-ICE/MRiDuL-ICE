@@ -18,7 +18,7 @@
  
  🌱 I’m currently learning **ReactJS, NodeJS, ExpressJS**
 
-💬 Ask me about **Java, Javascript, PHP, OOP, TailwindCSS, Bootstrap**
+💬 Ask me about **ReactJS, Javascript, MySql, OOP, TailwindCSS, Bootstrap**
 
 
  </div>
