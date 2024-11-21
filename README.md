@@ -75,17 +75,17 @@ things. I am a mature team player.I can work smoothly under any kind of situatio
 
 <br><br><br>
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRiDuL-ICE&layout=compact&theme=aura_dark" alt='MRiDuL-ICE' />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRiDuL-ICE&layout=compact&theme=algolia" alt='MRiDuL-ICE' />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MRiDuL-ICE&show_icons=true&locale=en&theme=midnight-purple&bg_color=00000000" alt="MRiDuL-ICE" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MRiDuL-ICE&show_icons=true&locale=en&theme=algolia" alt="MRiDuL-ICE" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MRiDuL-ICE&theme=midnight-purple&bg_color=00000000" alt="MRiDuL-ICE" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MRiDuL-ICE&theme=algolia" alt="MRiDuL-ICE" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/MRiDuL-ICE">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MRiDuL-ICE&theme=algolia" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MRiDuL-ICE&theme=aura_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MRiDuL-ICE&theme=algolia" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MRiDuL-ICE&theme=algolia" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MRiDuL-ICE&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MRiDuL-ICE&theme=2077" height="180em" />
