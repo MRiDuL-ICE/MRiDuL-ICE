@@ -74,14 +74,26 @@ things. I am a mature team player.I can work smoothly under any kind of situatio
 </div>
 
 <br><br><br>
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRiDuL-ICE&layout=compact&theme=highcontrast" alt='MRiDuL-ICE' />
 
-<h2 align="center">📊 Stats 📊</h2>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MRiDuL-ICE&show_icons=true&locale=en&theme=highcontrast" alt="MRiDuL-ICE" /></p>
 
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=MRiDuL-ICE&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000">
-  <img height="100%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=MRiDuL-ICE&layout=compact&hide_border=true&theme=midnight-purple&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=MRiDuL-ICE&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&background=FFFFFF00">
-</p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MRiDuL-ICE&theme=highcontrast" alt="MRiDuL-ICE" /></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/MRiDuL-ICE">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MRiDuL-ICE&theme=algolia" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MRiDuL-ICE&theme=aura_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MRiDuL-ICE&theme=algolia" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MRiDuL-ICE&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MRiDuL-ICE&theme=2077" height="180em" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=MRiDuL-ICE&theme=react-dark"/>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -94,3 +106,10 @@ things. I am a mature team player.I can work smoothly under any kind of situatio
 </div>
 
   
+//<h2 align="center">📊 Stats 📊</h2>
+
+//<p align="center">
+  //<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=MRiDuL-ICE&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000">
+  //<img height="100%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=MRiDuL-ICE&layout=compact&hide_border=true&theme=midnight-purple&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex&exclude_repo=Pacman-AI">
+  //<img src ="https://github-readme-streak-stats.herokuapp.com?user=MRiDuL-ICE&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&background=FFFFFF00">
+//</p>
