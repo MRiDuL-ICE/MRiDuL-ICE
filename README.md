@@ -75,7 +75,7 @@ things. I am a mature team player.I can work smoothly under any kind of situatio
 
 <br><br><br>
 <h3 align="left">Stats</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRiDuL-ICE&layout=compact&theme=algolia" alt='MRiDuL-ICE' />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRiDuL-ICE&layout=compact&&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt='MRiDuL-ICE' />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MRiDuL-ICE&show_icons=true&locale=en&theme=algolia" alt="MRiDuL-ICE" /></p>
 
