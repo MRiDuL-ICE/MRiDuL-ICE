@@ -75,11 +75,11 @@ things. I am a mature team player.I can work smoothly under any kind of situatio
 
 <br><br><br>
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRiDuL-ICE&layout=compact&theme=highcontrast" alt='MRiDuL-ICE' />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRiDuL-ICE&layout=compact&theme=midnight-purple" alt='MRiDuL-ICE' />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MRiDuL-ICE&show_icons=true&locale=en&theme=highcontrast" alt="MRiDuL-ICE" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MRiDuL-ICE&show_icons=true&locale=en&theme=midnight-purple" alt="MRiDuL-ICE" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MRiDuL-ICE&theme=highcontrast" alt="MRiDuL-ICE" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MRiDuL-ICE&theme=midnight-purple" alt="MRiDuL-ICE" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
