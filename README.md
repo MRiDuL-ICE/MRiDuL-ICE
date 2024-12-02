@@ -70,7 +70,7 @@ things. I am a mature team player.I can work smoothly under any kind of situatio
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nodejs,javascript,express,mongodb,bootstrap,html,css,vscode,github,tailwind,git,postman" />
-     <img src="https://skillicons.dev/icons?i=cpp,java,mysql,php" />
+     <img src="https://skillicons.dev/icons?i=cpp,java,mysql,php,antd" />
 </div>
 
 <br><br><br>
