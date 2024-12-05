@@ -80,7 +80,7 @@ things. I am a mature team player.I can work smoothly under any kind of situatio
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MRiDuL-ICE&show_icons=true&locale=en&theme=algolia" alt="MRiDuL-ICE" /></p>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MRiDuL-ICE&theme=sunset-gradient&card_height=180&fire=EB751D&ring=EBA734" alt="GitHub Streak" /></a>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=MRiDuL-ICE&theme=ambient-gradient&locale=bn&sideLabels=678EFF&currStreakLabel=3080EB&background=16%2C050F2C%2C0A1E57&stroke=4632EB&ring=4E3BEB&fire=EB610F&currStreakNum=E4EB37)](https://git.io/streak-stats)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/MRiDuL-ICE">
