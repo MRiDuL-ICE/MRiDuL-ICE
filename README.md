@@ -52,7 +52,7 @@
 
 <h2 align="center">🤝 Get to know me 🤝</h2>
 <p align="center">
-  [<img alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif">](https://gomycode.com/eg/wp-content/uploads/sites/28/2023/11/1_yw0TnheAGN-LPneDaTlaxw.gif)
+  <img alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif">
 </p>
 <p align="justify">Currently i am working for a company as a junior software engineer. I have to maintain and develop back-end of
 the product and i am also contributing to the front-end as well. I am an ICE graduate with several skill sets like
