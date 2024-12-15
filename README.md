@@ -56,7 +56,7 @@
 </p>
 <p align="justify">Currently i am working for a company as a junior software engineer. I have to maintain and develop back-end of
 the product and i am also contributing to the front-end as well. I am an ICE graduate with several skill sets like
-ReactJS, NodeJS, ExpressJS, PHP, MySql, MongoDB, TailwindCSS, Bootstrap. As per my competitive programming career i
+ReactJS, NodeJS, ExpressJS, MySql, MongoDB, TailwindCSS, Bootstrap. As per my competitive programming career i
 have obtained 395 contest rating at codeforces. I'm a quick learner and just want to learn new technologies and
 things. I am a mature team player.I can work smoothly under any kind of situation and pressure.</p>
 <h2 align="center"></h2>
