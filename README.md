@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQFUhWpRhhsV9Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729078598958?e=1734566400&v=beta&t=fJY4xNdowmDDQAQLesjEtAlMXQWSHfgb0b5DokQMIo4" alt="MRiDuL-ICE" />
+<img src="[https://media.licdn.com/dms/image/v2/D5616AQFUhWpRhhsV9Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729078598958?e=1734566400&v=beta&t=fJY4xNdowmDDQAQLesjEtAlMXQWSHfgb0b5DokQMIo4](https://i.ibb.co.com/wRm0tFk/Black-Yellow-Geometric-Design-Expert-Linked-In-Banner-1.png)" alt="MRiDuL-ICE" />
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Lobster&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md.+Abdul+Wahab!;&color=6A0DAD"/>
 </h1>
