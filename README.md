@@ -16,7 +16,7 @@
  
  🔭 I’m currently working at **ATC Tech Limited**
  
- 🌱 I’m currently learning **ReactJS, NodeJS, ExpressJS, MongoDB**
+ 🌱 I’m currently learning **Typescript, ReactJS, NodeJS, ExpressJS, MongoDB**
 
 💬 Ask me about **ReactJS, Javascript, MySql, OOP**
 
@@ -67,7 +67,7 @@ the product and i am also contributing to the front-end as well. I am an ICE gra
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nodejs,javascript,typescript,express,mongodb,firebase,html,css,vscode,github,tailwind,git,postman" />
-     <img src="https://skillicons.dev/icons?i=npm,yarn, bootstrap,arch,mysql,linux" />
+     <img src="https://skillicons.dev/icons?i=npm,yarn,bootstrap,arch,mysql,linux" />
 </div>
 
 <br><br><br>
