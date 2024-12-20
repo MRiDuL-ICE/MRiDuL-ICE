@@ -43,7 +43,7 @@
   <a href="https://dev.to/your-devto-username" target="_blank">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
   </a>
-  <a href="https://codeforces.com/profile/your-codeforces-username" target="_blank">
+  <a href="https://codeforces.com/profile/abdul_wahab_mridul" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-00A1DB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </div>
