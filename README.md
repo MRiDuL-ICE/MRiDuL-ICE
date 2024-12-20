@@ -66,8 +66,8 @@ the product and i am also contributing to the front-end as well. I am an ICE gra
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,javascript,express,mongodb,firebase,bootstrap,html,css,vscode,github,tailwind,git,postman" />
-     <img src="https://skillicons.dev/icons?i=npm,yarn,arch,mysql,linux" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,javascript,typescript,express,mongodb,firebase,html,css,vscode,github,tailwind,git,postman" />
+     <img src="https://skillicons.dev/icons?i=npm,yarn, bootstrap,arch,mysql,linux" />
 </div>
 
 <br><br><br>
