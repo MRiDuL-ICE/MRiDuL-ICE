@@ -16,7 +16,7 @@
  
  🔭 I’m currently working at **ATC Tech Limited**
  
- 🌱 I’m currently learning **Typescript, ReactJS, NodeJS, ExpressJS, MongoDB**
+ 🌱 I’m currently learning **Typescript, NodeJS, ExpressJS, MongoDB**
 
 💬 Ask me about **ReactJS, Javascript, MySql, OOP**
 
