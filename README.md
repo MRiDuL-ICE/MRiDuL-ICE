@@ -65,11 +65,47 @@ the product and i am also contributing to the front-end as well. I am an ICE gra
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
+<!-- <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nodejs,javascript,typescript,express,mongodb,firebase,html,css,vscode,github,tailwind,git,postman" />
      <img src="https://skillicons.dev/icons?i=npm,yarn,bootstrap,arch,mysql,linux" />
+</div> -->
+<div align="center">
+
+### Programming Languages
+![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frontend Technologies
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React.js](https://img.shields.io/badge/Reactjs-1A0033?style=for-the-badge&logo=react&logoColor=blue)
+![TailwindCSS](https://img.shields.io/badge/tailwind_css-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-white?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
+![Vite](https://img.shields.io/badge/vite-593D88?style=for-the-badge&logo=vite&logoColor=F16728)
+
+### Backend Technologies
+![Node.js](https://img.shields.io/badge/Nodejs-31303A?style=for-the-badge&logo=node.js&logoColor=green)
+![express](https://img.shields.io/badge/Express.js-EEEEEE?style=for-the-badge&logo=express&logoColor=black)
+
+### Databases
+![mongodb](https://img.shields.io/badge/mongodb-001E2B?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=fff)
+![MySQL](https://img.shields.io/badge/mysql-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![firebase](https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Tools & Package Managers
+![github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github)
+![git](https://img.shields.io/badge/Git-002244?style=for-the-badge&logo=git)
+![yarn](https://img.shields.io/badge/Yarn-white?style=for-the-badge&logo=yarn)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm)
+![postman](https://img.shields.io/badge/Postman-19216C?style=for-the-badge&logo=postman)
+
+### Operating Systems
+![linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux)
+![archlinux](https://img.shields.io/badge/Arch%20Linux-002244?style=for-the-badge&logo=archlinux)
+
 </div>
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![express](https://img.shields.io/badge/express-EEEEEE?style=flat-square&logo=express&logoColor=black) ![mongodb](https://img.shields.io/badge/mongodb-001E2B?style=flat-square&logo=mongodb) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=fff) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![firebase](https://img.shields.io/badge/firebase-2177EA?style=flat-square&logo=firebase) ![github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github) ![git](https://img.shields.io/badge/Git-002244?style=for-the-badge&logo=git) ![yarn](https://img.shields.io/badge/Yarn-white?style=for-the-badge&logo=yarn) ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm) ![Vite](https://img.shields.io/badge/Vite-593D88?style=flat-square&logo=vite&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) ![postman](https://img.shields.io/badge/Postman-19216C?style=for-the-badge&logo=postman) ![linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux) ![archlinux](https://img.shields.io/badge/Arch%20Linux-002244?style=for-the-badge&logo=archlinux) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+
 
 <br><br><br>
 <h3 align="left">Stats</h3>
@@ -104,6 +140,8 @@ the product and i am also contributing to the front-end as well. I am an ICE gra
 </div>
   <br/><br/><br/>
 </div>
+
+
 
   
 
