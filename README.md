@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Lobster&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md.+Abdul+Wahab!;&color=6A0DAD"/>
 </h1>
 
-<img src="https://i.ibb.co.com/fSMvM5j/cooltext472686622988388.png" width="3390" height="53" alt="A passionate Junior Software Engineer from Bangladesh " />
+<img src="https://i.ibb.co.com/fSMvM5j/cooltext472686622988388.png" width="3390" height="53" alt="A passionate Software Engineer from Bangladesh " />
 <br>
 <div align="center">
 
