@@ -8,6 +8,7 @@
 <div align="center">
 
 [![GitHub Stars](https://img.shields.io/github/stars/MRiDuL-ICE?style=flat-square&logo=github)](https://github.com/MRiDuL-ICE?tab=repositories&sort=stargazers)
+[![GitHub Merged PRs](https://img.shields.io/github/issues-pr-closed/MRiDuL-ICE/MRiDuL-ICE?style=flat-square&logo=github&color=purple)](https://github.com/MRiDuL-ICE/MRiDuL-ICE/pulls?q=is%3Apr+is%3Amerged)
 [![wakatime](https://wakatime.com/badge/user/20b773ae-1309-4d38-bf94-072d3c7b04da.svg)](https://wakatime.com/@20b773ae-1309-4d38-bf94-072d3c7b04da)
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MRiDuL-ICE&label=Profile%20views&color=0e75b6&style=flat" alt="MRiDuL-ICE" /> </p>
