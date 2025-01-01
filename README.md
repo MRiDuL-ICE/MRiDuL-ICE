@@ -54,7 +54,7 @@
 <p align="center">
   <img alt="Coding" width="400" src="https://gomycode.com/eg/wp-content/uploads/sites/28/2023/11/1_yw0TnheAGN-LPneDaTlaxw.gif">
 </p>
-<p align="justify">Currently i am working for a company as a junior software engineer. I have to maintain and develop back-end of
+<p align="justify">Currently i am working for a company as a software engineer. I have to maintain and develop back-end of
 the product and i am also contributing to the front-end as well. I am an ICE graduate with several skill sets like ReactJS, NodeJS, ExpressJS, MySql, MongoDB, TailwindCSS, Bootstrap. As per my competitive programming career i have obtained 395 contest rating at codeforces. I'm a quick learner and just want to learn new technologies and things. I am a mature team player.I can work smoothly under any kind of situation and pressure.That's it</p>
 <h2 align="center"></h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MRiDuL-ICE&theme=radical&&include_all_commits=true&count_private=true" /></a> </p>
