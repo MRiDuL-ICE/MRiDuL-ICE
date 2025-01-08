@@ -109,9 +109,9 @@ the product and i am also contributing to the front-end as well. I am an ICE gra
 
 <br><br><br>
 <h3 align="left">Stats</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRiDuL-ICE&layout=compact&theme=algolia" alt='MRiDuL-ICE' />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRiDuL-ICE&layout=compact&theme=yeblu" alt='MRiDuL-ICE' />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MRiDuL-ICE&show_icons=true&locale=en&theme=algolia" alt="MRiDuL-ICE" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MRiDuL-ICE&show_icons=true&locale=en&theme=yeblu" alt="MRiDuL-ICE" /></p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MRiDuL-ICE&theme=ambient-gradient&card_width=390&card_height=185&sideLabels=678EFF&currStreakLabel=3080EB&background=16%2C0A1E57%2C0F0D27&stroke=4632EB&ring=167FEB&fire=EB610F&border=EBEBEB)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=MRiDuL-ICE&theme=ambient-gradient&locale=bn&card_width=390&card_height=185&sideLabels=678EFF&currStreakLabel=3080EB&background=16%2C0F0D27%2C0A1E57&stroke=4632EB&ring=167FEB&fire=EB610F&border=EBEBEB&currStreakNum=EBD439)](https://git.io/streak-stats)
