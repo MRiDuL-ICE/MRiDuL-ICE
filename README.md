@@ -19,6 +19,8 @@
  🌱 I’m currently learning **Typescript, NodeJS, ExpressJS, MongoDB**
 
 💬 Ask me about **ReactJS, Javascript, MySql, OOP**
+
+
 💭 Fun fact **Part-time coder, full-time family man**
 
 
