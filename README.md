@@ -98,6 +98,7 @@ the product and i am also contributing to the front-end as well. I am an ICE gra
 
 ### Tools & Package Managers
 ![github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github)
+![gitlab](https://img.shields.io/badge/Gitlab-173B3F?style=for-the-badge&logo=gitlab)
 ![git](https://img.shields.io/badge/Git-002244?style=for-the-badge&logo=git)
 ![yarn](https://img.shields.io/badge/Yarn-white?style=for-the-badge&logo=yarn)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm)
