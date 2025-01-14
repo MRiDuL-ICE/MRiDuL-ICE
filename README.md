@@ -97,9 +97,9 @@ the product and i am also contributing to the front-end as well. I am an ICE gra
 ![firebase](https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Tools & Package Managers
+![git](https://img.shields.io/badge/Git-002244?style=for-the-badge&logo=git)
 ![github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github)
 ![gitlab](https://img.shields.io/badge/Gitlab-173B3F?style=for-the-badge&logo=gitlab)
-![git](https://img.shields.io/badge/Git-002244?style=for-the-badge&logo=git)
 ![yarn](https://img.shields.io/badge/Yarn-white?style=for-the-badge&logo=yarn)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm)
 ![postman](https://img.shields.io/badge/Postman-19216C?style=for-the-badge&logo=postman)
