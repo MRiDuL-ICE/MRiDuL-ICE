@@ -81,7 +81,7 @@ the product and i am also contributing to the front-end as well. I am an ICE gra
 ### Frontend Technologies
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React.js](https://img.shields.io/badge/Reactjs-1A0033?style=for-the-badge&logo=react&logoColor=blue)
+![React.js](https://img.shields.io/badge/Reactjs-white?style=for-the-badge&logo=react&logoColor=blue)
 ![TailwindCSS](https://img.shields.io/badge/tailwind_css-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-white?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
 ![Vite](https://img.shields.io/badge/vite-593D88?style=for-the-badge&logo=vite&logoColor=F16728)
