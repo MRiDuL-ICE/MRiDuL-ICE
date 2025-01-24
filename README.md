@@ -21,7 +21,7 @@
 💬 Ask me about **ReactJS, Javascript, MySql, OOP**
 
 
-💭 Fun fact **Part-time coder, full-time family man**
+💭 Fun fact about me **Part-time coder, full-time family man**
 
 
  </div>
