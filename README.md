@@ -139,7 +139,7 @@ the product and i am also contributing to the front-end as well. I am an ICE gra
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 <div align="center">
-  <h2> My Contributions </h2>
+  <h2>⚔️ My Contributions ⚔️</h2>
   <br>
   <div align="center">
   <img  src="https://github.com/MRiDuL-ICE/contribution-cal-snake/blob/master/animation/snake.gif"
