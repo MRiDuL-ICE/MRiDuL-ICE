@@ -83,10 +83,10 @@ the product and i am also contributing to the front-end as well. I am an ICE gra
 ![REDUX](https://img.shields.io/badge/REDUX%20ToolKit-764ABC?style=for-the-badge&logo=redux&logoColor=black)
 ![Tanstack Query](https://img.shields.io/badge/REACT%20query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwind_css-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-white?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
 ![React Router](https://img.shields.io/badge/react%20router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-593D88?style=for-the-badge&logo=vite&logoColor=F16728)
 <br/>
+![Bootstrap](https://img.shields.io/badge/bootstrap-white?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
+![Vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=F16728)
 ![shadcn/ui](https://img.shields.io/badge/Shadcn/UI-black?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![MUI](https://img.shields.io/badge/MetarialUI-050038?style=for-the-badge&logo=mui&logoColor=006AD3)
 ![React HookForm](https://img.shields.io/badge/react%20hookform-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
