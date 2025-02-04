@@ -112,6 +112,7 @@ the product and i am also contributing to the front-end as well. I am an ICE gra
 ### Operating Systems
 ![linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux)
 ![archlinux](https://img.shields.io/badge/Arch%20Linux-002244?style=for-the-badge&logo=archlinux)
+![ubuntu](https://img.shields.io/badge/ubuntu-262626?style=for-the-badge&logo=ubuntu&logoColor=E95420)
 
 </div>
 
