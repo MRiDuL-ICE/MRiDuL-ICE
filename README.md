@@ -79,15 +79,17 @@ the product and i am also contributing to the front-end as well. I am an ICE gra
 ![TypeScript](https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Frontend Technologies
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React.js](https://img.shields.io/badge/Reactjs-050A52?style=for-the-badge&logo=react&logoColor=blue)
+![REDUX](https://img.shields.io/badge/REDUX%20ToolKit-764ABC?style=for-the-badge&logo=redux&logoColor=black)
+![Tanstack Query](https://img.shields.io/badge/REACT%20query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwind_css-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-593D88?style=for-the-badge&logo=vite&logoColor=F16728)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-white?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
+![React Router](https://img.shields.io/badge/react%20router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-593D88?style=for-the-badge&logo=vite&logoColor=F16728)
 <br/>
 ![shadcn/ui](https://img.shields.io/badge/Shadcn/UI-black?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![MUI](https://img.shields.io/badge/MetarialUI-050038?style=for-the-badge&logo=mui&logoColor=006AD3)
+![React HookForm](https://img.shields.io/badge/react%20hookform-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 
 ### Backend Technologies
 ![Node.js](https://img.shields.io/badge/Nodejs-31303A?style=for-the-badge&logo=node.js&logoColor=green)
