@@ -99,7 +99,7 @@ the product and i am also contributing to the front-end as well. I am an ICE gra
 ![mongodb](https://img.shields.io/badge/mongodb-001E2B?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/mysql-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![firebase](https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=black)
+
 
 ### Tools & Package Managers
 ![git](https://img.shields.io/badge/Git-002244?style=for-the-badge&logo=git)
@@ -108,6 +108,7 @@ the product and i am also contributing to the front-end as well. I am an ICE gra
 ![yarn](https://img.shields.io/badge/Yarn-white?style=for-the-badge&logo=yarn)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm)
 ![postman](https://img.shields.io/badge/Postman-19216C?style=for-the-badge&logo=postman)
+![firebase](https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Operating Systems
 ![linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux)
