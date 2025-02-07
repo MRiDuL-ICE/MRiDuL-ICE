@@ -126,7 +126,7 @@ the product and i am also contributing to the front-end as well. I am an ICE gra
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MRiDuL-ICE&theme=ambient-gradient&card_width=390&card_height=185&sideLabels=678EFF&currStreakLabel=3080EB&background=16%2C0A1E57%2C0F0D27&stroke=4632EB&ring=167FEB&fire=EB610F&border=EBEBEB)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=MRiDuL-ICE&theme=ambient-gradient&locale=bn&card_width=390&card_height=185&sideLabels=678EFF&currStreakLabel=3080EB&background=16%2C0F0D27%2C0A1E57&stroke=4632EB&ring=167FEB&fire=EB610F&border=EBEBEB&currStreakNum=EBD439)](https://git.io/streak-stats)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">📝Statistics📝</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">📝 Statistics 📝</h3>
 <div align="center">
 <a href="https://github.com/MRiDuL-ICE">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MRiDuL-ICE&theme=algolia" height="180em" />
