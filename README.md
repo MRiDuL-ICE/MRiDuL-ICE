@@ -49,6 +49,9 @@
   <a href="https://codeforces.com/profile/abdul_wahab_mridul" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-00A1DB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/u/MRiDuL-ICE/" target="_blank">
+    <img src="https://img.shields.io/badge/Leetcode-202830?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+  </a>
 </div>
 <br>
 <br>
