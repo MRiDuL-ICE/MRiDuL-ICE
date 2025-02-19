@@ -23,6 +23,7 @@
 
 💭 Fun fact about me **Part-time coder, full-time family man**
 
+🎯 Focused on **Software Engineering**
 
  </div>
  <br>
