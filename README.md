@@ -13,8 +13,7 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MRiDuL-ICE&label=Profile%20views&color=0e75b6&style=flat" alt="MRiDuL-ICE" /> </p>
 <div align="center">
- 
- 🔭 I’m currently working at **ATC Tech Limited**
+
  
  🌱 I’m currently learning **Redux Toolkit, Typescript, NodeJS, ExpressJS, MongoDB, Tanstack Query**
 
