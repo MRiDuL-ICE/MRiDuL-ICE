@@ -14,7 +14,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MRiDuL-ICE&label=Profile%20views&color=0e75b6&style=flat" alt="MRiDuL-ICE" /> </p>
 <div align="center">
 
- 🔎 Open to work 
+ 🔎 Available for hire
 
  🌱 I’m currently learning **Redux Toolkit, Typescript, NodeJS, ExpressJS, MongoDB, Tanstack Query**
 
