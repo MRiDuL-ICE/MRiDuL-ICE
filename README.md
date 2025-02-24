@@ -120,7 +120,7 @@ the product and i am also contributing to the front-end as well. I am an ICE gra
 
 
 <br><br><br>
-<h3 align="left">Stats</h3>
+<h2 align="center">📝 Stats 📝</h2>
 <img  align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRiDuL-ICE&layout=compact&theme=yeblu" alt='MRiDuL-ICE' />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MRiDuL-ICE&show_icons=true&locale=en&theme=yeblu" alt="MRiDuL-ICE" /></p>
