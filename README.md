@@ -16,7 +16,7 @@
 <div align="center">
 
 
- 🌱 I’m currently learning **Redux Toolkit, Typescript, NodeJS, ExpressJS, MongoDB, Tanstack Query**
+ 🌱 I’m currently learning **Redux Toolkit, Typescript, ExpressJS, Mongoose, Tanstack Query**
 
 💬 Ask me about **ReactJS, Javascript, MySql, OOP**
 
@@ -95,6 +95,7 @@ the product and i am also contributing to the front-end as well. I am an ICE gra
 ### Backend Technologies
 ![Node.js](https://img.shields.io/badge/Nodejs-31303A?style=for-the-badge&logo=node.js&logoColor=green)
 ![express](https://img.shields.io/badge/Express.js-EEEEEE?style=for-the-badge&logo=express&logoColor=black)
+![mongoose](https://img.shields.io/badge/Mongoose-111324?style=for-the-badge&logo=mongoose&logoColor=880000)
 
 ### Databases
 ![mongodb](https://img.shields.io/badge/mongodb-001E2B?style=for-the-badge&logo=mongodb)
