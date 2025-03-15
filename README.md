@@ -16,6 +16,7 @@
 <div align="center">
 
 
+
  🌱 I’m currently learning **Redux Toolkit, Typescript, ExpressJS, Mongoose, Tanstack Query**
 
 💬 Ask me about **ReactJS, Javascript, MySql, OOP**
@@ -23,7 +24,7 @@
 
 💭 Fun fact about me **Part-time coder, full-time family man**
 
-🎯 Focused on **Software Engineering**
+🎯 Focused on **Software Engineering & System Design**
 
  </div>
  <br>
