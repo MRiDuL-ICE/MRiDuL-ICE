@@ -17,7 +17,7 @@
 
 
 
- 🌱 I’m currently learning **Redux Toolkit, Typescript, ExpressJS, Mongoose, Tanstack Query**
+ 🌱 I’m currently learning **Redux Toolkit, Typescript, ExpressJS, Mongoose**
 
 💬 Ask me about **ReactJS, Javascript, MySql, OOP**
 
