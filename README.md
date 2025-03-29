@@ -94,6 +94,7 @@
 ![Node.js](https://img.shields.io/badge/Nodejs-31303A?style=for-the-badge&logo=node.js&logoColor=green)
 ![express](https://img.shields.io/badge/Express.js-EEEEEE?style=for-the-badge&logo=express&logoColor=black)
 ![mongoose](https://img.shields.io/badge/Mongoose-111324?style=for-the-badge&logo=mongoose&logoColor=880000)
+![jsonwebtokens](https://img.shields.io/badge/JWT-00E5FF?style=for-the-badge&logo=jsonwebtokens&logoColor=000000)
 
 ### Databases
 ![mongodb](https://img.shields.io/badge/mongodb-001E2B?style=for-the-badge&logo=mongodb)
