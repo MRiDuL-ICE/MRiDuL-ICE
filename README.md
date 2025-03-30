@@ -17,8 +17,6 @@
 
 🏗️ I'm currently building my **Portfolio**
 
-🥅 Next Goal is **DevOps**
-
  🌱 I’m currently learning **Redux Toolkit, Typescript, ExpressJS, Mongoose**
 
 💬 Ask me about **ReactJS, Javascript, MySql, OOP**
