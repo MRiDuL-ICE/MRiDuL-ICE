@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/df6lyncbb/image/upload/v1740732428/I_Stand_with_Palestine_1_x658ek.png" alt="MRiDuL-ICE" />
+<img src="https://res.cloudinary.com/mridul-ice/image/upload/v1740732428/I_Stand_with_Palestine_1_x658ek.png" alt="MRiDuL-ICE" />
 <img src="https://i.ibb.co.com/pZ4zsGv/Black-Yellow-Geometric-Design-Expert-Linked-In-Banner.png" alt="MRiDuL-ICE" />
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Lobster&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md.+Abdul+Wahab!;&color=6A0DAD"/>
