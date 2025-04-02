@@ -17,7 +17,7 @@
 
 🏗️ I'm currently building my **Portfolio**
 
- 🌱 I’m currently learning **Redux Toolkit, Typescript, ExpressJS, Mongoose**
+ 🌱 I’m currently learning **Redux Toolkit, Typescript, ExpressJS, Mongoose, Golang**
 
 💬 Ask me about **ReactJS, Javascript, MySql, OOP**
 
