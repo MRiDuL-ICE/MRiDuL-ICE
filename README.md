@@ -58,7 +58,7 @@
 <p align="center">
   <img alt="Coding" width="400" src="https://gomycode.com/eg/wp-content/uploads/sites/28/2023/11/1_yw0TnheAGN-LPneDaTlaxw.gif">
 </p>
-<p align="justify">Currently i am working for a company as a junior software engineer. I am an ICE graduate with several skill sets like ReactJS, NodeJS, ExpressJS, JWT Token, PostgreSql, MySql, MongoDB, Mongoose. As per my competitive programming career i have obtained 395 contest rating at codeforces. I'm a quick learner and just want to learn new technologies and things. I am a mature team player.I can work smoothly under any kind of situation and pressure.</p>
+<p align="justify">Currently i am working for a company as a junior software engineer. I am an ICE graduate with several skill sets like ReactJS, NodeJS, ExpressJS, JWT Token, PostgreSql, MySql, MongoDB, Mongoose. As per my competitive programming career i have obtained 395 contest rating at codeforces. I'm a quick learner and just want to learn new technologies and things. I am a mature team player. I can work smoothly under any kind of situation and pressure.</p>
 <h2 align="center"></h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MRiDuL-ICE&theme=radical&&include_all_commits=true&count_private=true" /></a> </p>
 
@@ -142,7 +142,7 @@
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 <div align="center">
-  <h2>⚔️ My Contributions ⚔️</h2>
+  <h2>⚔️ My Contribution ⚔️</h2>
   <br>
   <div align="center">
   <img  src="https://github.com/MRiDuL-ICE/contribution-cal-snake/blob/master/animation/snake.gif"
