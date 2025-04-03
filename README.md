@@ -21,7 +21,7 @@
 
 💬 Ask me about **ReactJS, Javascript, MySql, OOP**
 
-💭 Fun fact about me **Part-time coder, full-time family man**
+💭 Fun fact about me **Part-time Coder, Full-time Family Man**
 
 🎯 Focused on **Software Engineering & System Design**
 
