@@ -4,14 +4,24 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Lobster&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md.+Abdul+Wahab!;&color=6A0DAD"/>
 </h1>
 
+
 <img src="https://i.ibb.co.com/fSMvM5j/cooltext472686622988388.png" width="3390" height="53" alt="A passionate Software Engineer from Bangladesh " />
 <br>
 <div align="center">
+
 
 [![GitHub Stars](https://img.shields.io/github/stars/MRiDuL-ICE?style=flat-square&logo=github)](https://github.com/MRiDuL-ICE?tab=repositories&sort=stargazers)
 [![GitHub Merged PRs](https://img.shields.io/github/issues-pr-closed/MRiDuL-ICE/MRiDuL-ICE?style=flat-square&logo=github&color=purple)](https://github.com/MRiDuL-ICE/MRiDuL-ICE/pulls?q=is%3Apr+is%3Amerged)
 [![wakatime](https://wakatime.com/badge/user/20b773ae-1309-4d38-bf94-072d3c7b04da.svg)](https://wakatime.com/@20b773ae-1309-4d38-bf94-072d3c7b04da)
 </div>
+
+<div align="center">
+    
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31auufcystynsy7atleaeewha4ry&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+    
+</div>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MRiDuL-ICE&label=Profile%20views&color=0e75b6&style=flat" alt="MRiDuL-ICE" /> </p>
 <div align="center">
 
