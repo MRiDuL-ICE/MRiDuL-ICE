@@ -29,7 +29,7 @@
 
 🏗️ I'm currently building my **Portfolio**
 
- 🌱 I’m currently learning **Redux Toolkit, Typescript, ExpressJS, Mongoose, Golang**
+ 🌱 I’m currently learning **NextJs, Redux Toolkit, Typescript, ExpressJS, Mongoose, Golang**
 
 💬 Ask me about **ReactJS, Javascript, MySql, OOP**
 
@@ -89,6 +89,7 @@
 
 ### Frontend Technologies
 ![React.js](https://img.shields.io/badge/Reactjs-050A52?style=for-the-badge&logo=react&logoColor=blue)
+![Next.js](https://img.shields.io/badge/Nextjs-white?style=for-the-badge&logo=next.js&logoColor=black)
 ![REDUX](https://img.shields.io/badge/REDUX%20ToolKit-764ABC?style=for-the-badge&logo=redux&logoColor=black)
 ![Tanstack Query](https://img.shields.io/badge/REACT%20query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwind_css-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
