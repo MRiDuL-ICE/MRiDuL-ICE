@@ -25,7 +25,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MRiDuL-ICE&label=Profile%20views&color=0e75b6&style=flat" alt="MRiDuL-ICE" /> </p>
 <div align="center">
 
-💼 Currently I'm working for **OrangeToolz**
 
 🏗️ I'm currently building my **Portfolio**
 
