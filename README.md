@@ -28,7 +28,7 @@
 
 🏗️ I'm currently building my **Portfolio**
 
- 🌱 I’m currently learning **NextJs, Redux Toolkit, Typescript, ExpressJS, Mongoose, Golang**
+ 🌱 I’m currently learning **NextJs, Mongoose, Golang**
 
 💬 Ask me about **ReactJS, Javascript, MySql, OOP**
 
