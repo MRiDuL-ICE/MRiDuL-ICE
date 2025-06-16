@@ -102,6 +102,7 @@
 
 ### Backend Technologies
 ![Node.js](https://img.shields.io/badge/Nodejs-31303A?style=for-the-badge&logo=node.js&logoColor=green)
+![Nest.js](https://img.shields.io/badge/NestJs-002244?style=for-the-badge&logo=nestjs&logoColor=red)
 ![express](https://img.shields.io/badge/Express.js-EEEEEE?style=for-the-badge&logo=express&logoColor=black)
 ![mongoose](https://img.shields.io/badge/Mongoose-111324?style=for-the-badge&logo=mongoose&logoColor=880000)
 ![jsonwebtokens](https://img.shields.io/badge/JWT-00E5FF?style=for-the-badge&logo=jsonwebtokens&logoColor=000000)
