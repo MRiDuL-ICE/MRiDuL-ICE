@@ -46,7 +46,7 @@
   <a href="https://www.linkedin.com/in/wahabmridul-ice/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://mdabdulwahab.vercel.app" target="_blank">
+  <a href="https://mdabdulwahab.com" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> 
   </a>
   <a href="https://www.facebook.com/wahabmridul" target="_blank">
