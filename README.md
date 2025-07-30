@@ -28,7 +28,7 @@
 
 🏗️ I'm currently working on **SLF website Builder, Call Connect**
 
- 🌱 I’m currently learning **NextJs, Mongoose, Golang**
+ 🌱 I’m currently learning **Golang**
 
 💬 Ask me about **ReactJS, Javascript, MySql, OOP**
 
