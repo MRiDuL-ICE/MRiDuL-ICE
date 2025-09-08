@@ -66,6 +66,3 @@ From integrating **Stripe subscription billing** to designing **modular backends
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRiDuL-ICE&show_icons=true&theme=algolia)  
 [![GitHub Streak](https://streak-stats.demolab.com?user=MRiDuL-ICE&theme=algolia)](https://git.io/streak-stats)  
 
----
-
-⭐️ **Pinned Repos**: Make sure to pin your SaaS projects (CallConnectAI, VoiceTotal, WaAgentAI) so they’re easy for clients to find.  
